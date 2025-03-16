@@ -5,7 +5,7 @@
 }
 
 body{
-    background: url('../img/NYC\ Sky.jpg') no-repeat center center/cover;
+    background: url('./img/NYC\ Sky.jpg') no-repeat center center/cover;
     height: 100vh;
     margin: 0;
     opacity: 0;
